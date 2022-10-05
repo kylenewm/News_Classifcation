@@ -1,2 +1,4 @@
 # News_Classifcation
-Classification with NLP
+
+
+1. [Link to dataset](https://www.kaggle.com/competitions/learn-ai-bbc/data)
