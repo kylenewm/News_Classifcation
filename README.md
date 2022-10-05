@@ -2,7 +2,7 @@
 
 
 1. [Link to dataset](https://www.kaggle.com/competitions/learn-ai-bbc/data)
-  - Dataset consists of 3 files
+    - Dataset consists of 3 files
       1. BBC News Train.csv
       2. BBC News Test.cs
       3. BBC News Sample.csv
